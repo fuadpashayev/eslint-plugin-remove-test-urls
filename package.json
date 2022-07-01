@@ -1,8 +1,8 @@
 {
   "name": "eslint-plugin-remove-test-urls",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Eslint plugin for removing test urls",
-  "keywords": [],
+  "keywords": ["eslint", "eslint-plugin","remove-test-urls","test-urls","test-url","test-urls-remover","test-url-remover","test url remover"],
   "author": "Fuad Pashayev",
   "license": "ISC",
   "repository":"https://github.com/fuadpashayev/eslint-plugin-remove-test-urls.git"
